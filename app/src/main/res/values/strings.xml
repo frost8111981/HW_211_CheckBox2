@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW 211 CheckBox3</string>
+    <string name="input_money">Ввод денег</string>
+    <string name="input_info">Информация об оплате</string>
+    <string name="button_ok">OK</string>
+    <string name="check_box_bank">С банковской карты</string>
+    <string name="check_box_mobile">С мобильного телефона</string>
+    <string name="check_box_cash">Наличными по адресу</string>
+
+</resources>
