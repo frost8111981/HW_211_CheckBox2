@@ -24,16 +24,19 @@
         android:layout_height="wrap_content"
         android:text="OK" />
     <CheckBox
+        android:checked="true"
         android:id="@+id/bankCardChkBx"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="С банковской карты"/>
     <CheckBox
+        android:checked="true"
         android:id="@+id/mobilePhoneChkBx"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="С мобильного телефона"/>
     <CheckBox
+        android:checked="true"
         android:id="@+id/cashAddressChkBx"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
